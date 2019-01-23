@@ -1,0 +1,7 @@
+{
+  "patches": {
+    "ebizmarts/magento2-mandrill":{
+      "Mandrill 3.1.0 email sending failed - invalid sender":"../environments/global/patches/ebizmarts/magento2-mandrill/3.1.0_invalid_sender_m2.2.7_fix_v1.patch"
+    }
+  }
+}
